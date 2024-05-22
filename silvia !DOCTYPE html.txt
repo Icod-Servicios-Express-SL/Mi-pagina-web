@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Silvia Martín - Técnico Administrativo y Docente de Formación Digital para Personas Mayores</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background-color: #002147; /* Azul marino */
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            background-color: white;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        section h2 {
+            color: #b22222; /* Rojo */
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #333;
+            color: white;
+        }
+        .contact-info {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .contact-info a {
+            color: #b22222; /* Rojo */
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Silvia Martín</h1>
+        <p>Técnico Administrativo y Docente de Formación Digital para Personas Mayores</p>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Acerca de Mí</h2>
+            <p>Silvia Martín es una Administrativa con años de experiencia tanto en el sector privado como en el público, en las áreas de RRHH y Facturación. Pasada la pandemia, se ha reinventado profesionalmente, creando una empresa llamada <strong>Icod Servicios Express SL</strong>, que se dedica a la formación digital para personas mayores, al asesoramiento digital y al acompañamiento a la hora de realizar trámites digitales. También ofrece un servicio de tareas administrativas para empresas.</p>
+            <p>Posee habilidad para resolver problemas complejos y cuenta con la pasión por aprender nuevas tecnologías para poder liderar proyectos que han optimizado significativamente los procesos internos de la empresa de la que es administradora.</p>
+            <p>Además de su experiencia profesional, Silvia es una ferviente defensora de la inclusión y la diversidad en el campo tecnológico. Participa activamente en comunidades y eventos que promueven la participación de mayores digitales, y ha sido galardonada con el Tercer Premio al Mejor Proyecto Emprendedor del Año 2022 por el Parque Tecnológico de Tenerife en su programa de mujeres emprendedoras WomenIn.</p>
+        </section>
+        <section>
+            <h2>Intereses y Actividades</h2>
+            <p>En mi tiempo libre, disfruto explorando nuevas tecnologías, participando en video-sesiones y contribuyendo a proyectos digitales con la Asociación Senior Tic. Mi dedicación y entusiasmo por la tecnología no solo me definen como una profesional destacada, sino también como una inspiradora líder en mi comunidad.</p>
+        </section>
+        <section class="contact-info">
+            <h2>Contacto</h2>
+            <p>Email: <a href="mailto:icodserviciosexpress@gmail.com">icodserviciosexpress@gmail.com</a></p>
+            <p>Teléfono: <a href="tel:+34686856380">686 856 380</a></p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Silvia Martín. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
